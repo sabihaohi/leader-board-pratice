@@ -229,4 +229,7 @@ hr{
         align-items: center;
         flex-direction: column;
     }
+    .course-title{
+        text-align: center;
+    }
 }
